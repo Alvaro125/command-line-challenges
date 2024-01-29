@@ -194,6 +194,8 @@ OK! Let's get started.
     ***tail -n 25 people.csv***
 31. (I) Display just the differences between greeting1.txt and greeting2.txt
 
+    ***diff greeting1.txt greeting2.txt***
+
 32. (I) Print "Hello", then wait 5 seconds, then print "world!".
 
 33. (I) Create a 1MB file full of zeros.
