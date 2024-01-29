@@ -141,6 +141,9 @@ OK! Let's get started.
 19. (B) Append some text to the end of "restricted.txt". It's OK to do this in
     2 steps.
 
+    ***chmod 600 restricted.txt***
+    
+    ***echo "end line" >> restricted.txt***
 20. (B) Run the "hello_executable" program.
 
 21. (B) Run the "challenge_20" program. It's OK to do this in 2 steps.
