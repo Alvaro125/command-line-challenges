@@ -166,6 +166,8 @@ OK! Let's get started.
 
 24. (B) Get the current date and time.
 
+    ***date***
+
 25. (B) Show all of the running processes on your computer.
 
 26. (B) Show the number of processors/cores in your computer.
