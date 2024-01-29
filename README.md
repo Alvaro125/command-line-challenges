@@ -170,6 +170,8 @@ OK! Let's get started.
 
 25. (B) Show all of the running processes on your computer.
 
+    ***top***
+
 26. (B) Show the number of processors/cores in your computer.
 
 27. (B) Find out what version of the Linux kernel is currently running.
