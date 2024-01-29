@@ -149,6 +149,10 @@ OK! Let's get started.
     ***./hello_executable***
 21. (B) Run the "challenge_20" program. It's OK to do this in 2 steps.
 
+    ***chmod 700 challenge_20***
+
+    ***./challenge_20***
+
 22. (B) Compile and run "compile_me.c". It's OK to do this in 2 steps.
 
 23. (A) Run the "redirect" program and collect all of its output in a file
