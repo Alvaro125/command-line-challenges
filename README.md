@@ -99,6 +99,8 @@ OK! Let's get started.
     ***echo "Hello World"***
 8. (B) Create a file named "hello.txt" that contains the text "Hello World".
 
+    ***echo "Hello World" > hello.txt***
+
 9. (B) Create an empty file named "empty.txt"
 
 10. (B) Remove the file "empty.txt"
