@@ -162,6 +162,8 @@ OK! Let's get started.
 23. (A) Run the "redirect" program and collect all of its output in a file
     named "output.txt".
 
+    ***./redirect > output.txt***
+
 24. (B) Get the current date and time.
 
 25. (B) Show all of the running processes on your computer.
