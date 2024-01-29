@@ -114,6 +114,7 @@ OK! Let's get started.
 
 12. (I) Find a third way to solve challenge 9.
 
+    ***echo -n > empty.txt***
 13. (B) Copy "hello.txt" and name the copy "goodbye.txt".
 
 14. (B) Rename "goodby.txt" to "hello_copy.txt".
