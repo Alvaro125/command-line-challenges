@@ -210,6 +210,7 @@ OK! Let's get started.
 
 35. (I) Count the number of lines in README.txt.
 
+    ***wc -l README.md***
 36. (B) Display the contents of README.txt in reverse (last line first).
 
 37. (I) Display all of the last names in people.csv.
