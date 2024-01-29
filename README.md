@@ -242,6 +242,8 @@ OK! Let's get started.
 
 42. (A) Count the number of people with the first name "Josiah" in people.csv.
 
+    ***cut -d , -f 4 people.csv | sort | uniq -c |grep "Josiah"***
+
 43. (I) Count the number of files (not directories) in the "challenges" directory .
 
 44. (I) Count the number of subdirectories in the "challenges" directory.
