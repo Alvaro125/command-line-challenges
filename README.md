@@ -213,6 +213,8 @@ OK! Let's get started.
     ***wc -l README.md***
 36. (B) Display the contents of README.txt in reverse (last line first).
 
+    ***tac README.md***
+
 37. (I) Display all of the last names in people.csv.
 
 38. (A) Count the number of unique last names in people.csv.
