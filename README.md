@@ -129,6 +129,7 @@ OK! Let's get started.
 16. (B) Concatenate the contents of "hello.txt" and "hello_copy.txt" and store
     the result in a file named "2_hellos.txt".
 
+    ***cat hello.txt hello_copy.txt > 2_hellos.txt***
 17. (B) Get the full path of your present working directory ("challenges").
 
 18. (B) List the contents of the "challenges" directory (like challenge 3), but
