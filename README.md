@@ -235,6 +235,11 @@ OK! Let's get started.
     last names in people.csv, can you prove whether or not one is more efficient
     (faster) than the other?
 
+    ***time tail +2 people.csv | cut -d , -f 2 | sort | uniq |wc -l***
+
+    ***time sed 1d people.csv | cut -d , -f 2 | sort -u | wc -l***
+
+
 42. (A) Count the number of people with the first name "Josiah" in people.csv.
 
 43. (I) Count the number of files (not directories) in the "challenges" directory .
