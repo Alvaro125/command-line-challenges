@@ -206,6 +206,8 @@ OK! Let's get started.
 
 34. (I) Create a 2MB file full of random data.
 
+    ***dd if=/dev/urandom of=random_file bs=2048 count=1000***
+
 35. (I) Count the number of lines in README.txt.
 
 36. (B) Display the contents of README.txt in reverse (last line first).
