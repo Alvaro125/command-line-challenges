@@ -174,6 +174,8 @@ OK! Let's get started.
 
 26. (B) Show the number of processors/cores in your computer.
 
+    ***nproc***
+
 27. (B) Find out what version of the Linux kernel is currently running.
 
 28. (B) Find the file in the "bunch_of_files/" directory that contains the string:
