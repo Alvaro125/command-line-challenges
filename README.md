@@ -84,6 +84,8 @@ OK! Let's get started.
 
 4. (B) Create a new directory named "foo".
 
+    ***mkdir foo***
+
 5. (I) Create a new directory named "foo/bar/1/2/3"
 
 6. (B) Remove the directory "foo" and all of its contents
