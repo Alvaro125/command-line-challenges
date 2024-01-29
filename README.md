@@ -136,6 +136,8 @@ OK! Let's get started.
 18. (B) List the contents of the "challenges" directory (like challenge 3), but
     show the permissions for each file.
 
+    ***ls -l***
+
 19. (B) Append some text to the end of "restricted.txt". It's OK to do this in
     2 steps.
 
