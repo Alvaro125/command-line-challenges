@@ -198,6 +198,8 @@ OK! Let's get started.
 
 32. (I) Print "Hello", then wait 5 seconds, then print "world!".
 
+    ***echo "Hello" && sleep 5 && echo "world!"***
+
 33. (I) Create a 1MB file full of zeros.
 
 34. (I) Create a 2MB file full of random data.
