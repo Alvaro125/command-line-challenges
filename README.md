@@ -106,6 +106,8 @@ OK! Let's get started.
     ***touch empty.txt***
 10. (B) Remove the file "empty.txt"
 
+    ***rm empty.txt***
+
 11. (I) Find a second way to solve challenge 9.
 
 12. (I) Find a third way to solve challenge 9.
