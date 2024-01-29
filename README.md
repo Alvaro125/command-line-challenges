@@ -256,6 +256,8 @@ OK! Let's get started.
 
 45. (I) Remove all files with "deleteme" in the name.
 
+    ***find . -type f -name "\*deleteme\*" -exec rm -v {} \\;***
+
 46. (I) In challenge 28 you found a file. Replace the string "You found the
     needle in the haystack!" with "The needle has been removed."
 
