@@ -188,6 +188,7 @@ OK! Let's get started.
     ***grep -r "You found the needle in the haystack!"***
 29. (B) Print the first 25 lines of people.csv.
 
+    ***head -n 25 people.csv***
 30. (B) Print the last 25 lines of people.csv.
 
 31. (I) Display just the differences between greeting1.txt and greeting2.txt
