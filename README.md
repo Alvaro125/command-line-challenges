@@ -245,6 +245,10 @@ OK! Let's get started.
     ***cut -d , -f 4 people.csv | sort | uniq -c |grep "Josiah"***
 
 43. (I) Count the number of files (not directories) in the "challenges" directory .
+    
+    ***ls -l | grep "^_" | wc -l***
+
+    ***ls -lR | grep "^_" | wc -l***
 
 44. (I) Count the number of subdirectories in the "challenges" directory.
 
