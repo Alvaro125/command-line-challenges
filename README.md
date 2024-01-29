@@ -92,6 +92,8 @@ OK! Let's get started.
 
 6. (B) Remove the directory "foo" and all of its contents
 
+    ***rm -R foo***
+
 7. (B) Print the text "Hello World".
 
 8. (B) Create a file named "hello.txt" that contains the text "Hello World".
