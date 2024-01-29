@@ -103,6 +103,7 @@ OK! Let's get started.
 
 9. (B) Create an empty file named "empty.txt"
 
+    ***touch empty.txt***
 10. (B) Remove the file "empty.txt"
 
 11. (I) Find a second way to solve challenge 9.
