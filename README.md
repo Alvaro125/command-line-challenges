@@ -178,6 +178,8 @@ OK! Let's get started.
 
 27. (B) Find out what version of the Linux kernel is currently running.
 
+    ***uname -r***
+
 28. (B) Find the file in the "bunch_of_files/" directory that contains the string:
     "You found the needle in the haystack!"
 
