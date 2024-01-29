@@ -217,6 +217,8 @@ OK! Let's get started.
 
 37. (I) Display all of the last names in people.csv.
 
+    ***head people.csv***
+
 38. (A) Count the number of unique last names in people.csv.
 
 39. (A) Did you accidentally count the CSV header in the previous challenge?
