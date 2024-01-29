@@ -202,6 +202,8 @@ OK! Let's get started.
 
 33. (I) Create a 1MB file full of zeros.
 
+    ***dd if=/dev/zero bs=1024 count=1024 > 1_mb***
+
 34. (I) Create a 2MB file full of random data.
 
 35. (I) Count the number of lines in README.txt.
