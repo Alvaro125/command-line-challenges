@@ -132,6 +132,7 @@ OK! Let's get started.
     ***cat hello.txt hello_copy.txt > 2_hellos.txt***
 17. (B) Get the full path of your present working directory ("challenges").
 
+    ***pwd***
 18. (B) List the contents of the "challenges" directory (like challenge 3), but
     show the permissions for each file.
 
