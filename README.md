@@ -109,6 +109,8 @@ OK! Let's get started.
     ***rm empty.txt***
 
 11. (I) Find a second way to solve challenge 9.
+    
+    ***cat > empty.txt***
 
 12. (I) Find a third way to solve challenge 9.
 
