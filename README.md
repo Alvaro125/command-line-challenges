@@ -117,7 +117,9 @@ OK! Let's get started.
     ***echo -n > empty.txt***
 13. (B) Copy "hello.txt" and name the copy "goodbye.txt".
 
-14. (B) Rename "goodby.txt" to "hello_copy.txt".
+    ***cp hello.txt goodbye.txt***
+
+14. (B) Rename "goodbye.txt" to "hello_copy.txt".
 
 15. (I) Prove that the contents of "hello.txt" and "hello_copy.txt" are
     identical.
