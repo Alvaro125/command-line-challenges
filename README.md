@@ -71,10 +71,12 @@ OK! Let's get started.
 
 1. (B) Extract the "challenges.tar.gz" archive; you'll need its contents to
    solve some of the challenges.
+   
    ***tar -xf challenges.tar.gz***
 
-2. (B) Change your working directory to the "challenges" directory that was
-   created when you extracted "challenges.tar.gz"
+2. (B) Change your working directory to the "challenges" directory that was created when you extracted "challenges.tar.gz".
+
+    ***cd challenges/***
 
 3. (B) List the contents of the "challenges" directory.
 
